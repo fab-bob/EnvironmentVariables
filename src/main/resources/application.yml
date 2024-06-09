@@ -1,0 +1,10 @@
+
+server:
+  port: 4500
+
+spring:
+  profiles:
+    active: default
+
+authCode: xyz458
+devName: Fabrizio
